@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bulma/css/bulma.css";
+html{
+  height:100%;
+  background-color: #212121;
+  color: white;
+
+}
+input{
+  background-color: rgba(0, 0, 0, 0.8);
+}
